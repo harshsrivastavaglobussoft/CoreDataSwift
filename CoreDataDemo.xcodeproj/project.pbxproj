@@ -16,6 +16,7 @@
 		95824F311FFF5F8B00BC20E6 /* RawAgent+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95824F2F1FFF5F8B00BC20E6 /* RawAgent+CoreDataClass.swift */; };
 		95824F321FFF5F8B00BC20E6 /* RawAgent+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95824F301FFF5F8B00BC20E6 /* RawAgent+CoreDataProperties.swift */; };
 		95824F341FFF687100BC20E6 /* CoreDatahelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95824F331FFF687100BC20E6 /* CoreDatahelper.swift */; };
+		95B4ADBB200346AF00E40D49 /* UpdateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95B4ADBA200346AF00E40D49 /* UpdateViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		95824F2F1FFF5F8B00BC20E6 /* RawAgent+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RawAgent+CoreDataClass.swift"; sourceTree = "<group>"; };
 		95824F301FFF5F8B00BC20E6 /* RawAgent+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RawAgent+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		95824F331FFF687100BC20E6 /* CoreDatahelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDatahelper.swift; sourceTree = "<group>"; };
+		95B4ADBA200346AF00E40D49 /* UpdateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				95824F271FFF553400BC20E6 /* Info.plist */,
 				95824F1F1FFF553400BC20E6 /* CoreDataDemo.xcdatamodeld */,
 				95824F331FFF687100BC20E6 /* CoreDatahelper.swift */,
+				95B4ADBA200346AF00E40D49 /* UpdateViewController.swift */,
 			);
 			path = CoreDataDemo;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				95824F341FFF687100BC20E6 /* CoreDatahelper.swift in Sources */,
 				95824F211FFF553400BC20E6 /* CoreDataDemo.xcdatamodeld in Sources */,
 				95824F191FFF553400BC20E6 /* AppDelegate.swift in Sources */,
+				95B4ADBB200346AF00E40D49 /* UpdateViewController.swift in Sources */,
 				95824F321FFF5F8B00BC20E6 /* RawAgent+CoreDataProperties.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
